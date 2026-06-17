@@ -1,0 +1,40 @@
+
+button{
+    background-color: blueviolet;
+    padding: 12px;
+    border-radius: 6px;
+    border: none;
+    color: aliceblue;
+    font-size: 16px;
+}
+
+
+.btn1{
+    background-color: blueviolet;
+    padding: 12px;
+    border-radius: 6px;
+    border: none;
+    color: rgb(244, 246, 248);
+    font-size: 16px;
+}
+
+.btn1:hover{
+    font-style: italic;
+    background-color: aquamarine;
+    box-shadow: #000 2px 3px 5px;
+    }
+
+    .btn2{
+        background-color: rgb(16, 7, 146);
+    }
+
+    .btn2:hover{
+        transform: scale(1.2);
+    }
+
+    .btn3{
+        background-color: black;
+    }
+    .btn3:hover{
+        transform: scale(1.1) rotate(10deg);
+    }
